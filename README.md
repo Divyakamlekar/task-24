@@ -1,1 +1,1 @@
-# task-24
+Writing test cases for client and vendor scenarios.
